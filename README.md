@@ -19,4 +19,4 @@ Data science project to find most used word in a given file .
 ['resource', 6]
 ['on', 6]
 ```
-It will lists top used keyword and their counts
+It will lists top used keywords and their counts
