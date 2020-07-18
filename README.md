@@ -8,6 +8,7 @@ Data science project to find most used word in a given file .
  
 # Output of the project
 ```
+>>python3 mostUsedKeyFind.py
 ['to', 21]
 ['the', 18]
 ['and', 17]
